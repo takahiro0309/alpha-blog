@@ -1,9 +1,7 @@
-1) Create a new application and call it alpha-blog
+Create a new application and call it alpha-blog
 
-2) Ensure you can run the server and preview the application
+Ensure you can run the server and preview the application
 
-3) Page Controller
+Page Controller
 
-4) Ensure you have appropriate routes
-
-5) Create a homepage, about page
+Ensure you have appropriate routes
